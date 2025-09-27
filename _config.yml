@@ -20,8 +20,8 @@ author: Nguyen Tho The Cuong
 ###############################################
 
 navbar-links:
+  Blog: "/" 
   About Me: "aboutme"
-  Archive: 
   Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
